@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Smartphone",
+        "description": "Um dispositivo portátil com tela sensível ao toque.",
+        "amount": 50,
+        "price": 1200.00,
+        "category": {
+            "name": "Eletrônicos",
+            "description": "Dispositivos eletrônicos como celulares, tablets e outros gadgets."
+        }
+    },
+    {
+        "name": "Notebook",
+        "description": "Computador portátil para trabalho e estudo.",
+        "amount": 30,
+        "price": 3500.00,
+        "category": {
+            "name": "Eletrônicos",
+            "description": "Dispositivos eletrônicos como celulares, tablets e outros gadgets."
+        }
+    },
+    {
+        "name": "Fogão 4 bocas",
+        "description": "Ideal para cozinhas residenciais.",
+        "amount": 20,
+        "price": 800.00,
+        "category": {
+            "name": "Eletrodomésticos",
+            "description": "Aparelhos essenciais para o lar, como fogões, geladeiras e micro-ondas."
+        }
+    },
+    {
+        "name": "Fone de ouvido",
+        "description": "Fone de ouvido sem fio com cancelamento de ruído.",
+        "amount": 100,
+        "price": 200.00,
+        "category": {
+            "name": "Acessórios",
+            "description": "Itens complementares como cabos, cases, fones e outros periféricos."
+        }
+    }
+]
